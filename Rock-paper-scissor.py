@@ -7,7 +7,7 @@ root = Tk()
  
 # Title of GUI window
 root.title('Rock Paper Scissor')
- 
+
 # Size of window
 root.geometry('800x680')
  
