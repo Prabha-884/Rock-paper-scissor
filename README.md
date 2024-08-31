@@ -17,3 +17,7 @@ Random:
 Python defines a set of functions that are used to generate or manipulate random numbers through the random module.
 PIL:
 Python Imaging Library (expansion of PIL) is the de facto image processing package for Python language. It incorporates lightweight image processing tools that aids in editing, creating and saving images.
+
+GUI Implementation 
+1: Image processing and handling
+2: Game Implementation
